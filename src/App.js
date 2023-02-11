@@ -83,10 +83,10 @@ const App = () => {
         </div>
           ) : ("")
         }
-        <div className='auther'>
+       {/*  <div className='auther'>
             <h3> author of Zuhriddin Qulmatov</h3>
             <h2>Toshkent 2022 &copy;</h2>
-            </div>
+            </div> */}
 
       </main>
     </div>
